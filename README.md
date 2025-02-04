@@ -14,6 +14,6 @@ A batch script to hide system files and folders in Windows using the `attrib` co
 
 📌 Ideal for protecting important system files from accidental modifications.
 
-<img src="https://img.shields.io/github/stars/bl4ckswat/system-hide-bat" alt="Repo stars">
+<img src="https://img.shields.io/github/stars/bl4ckswat/windows-system-hide" alt="Repo stars">
 
-<img src="https://img.shields.io/github/languages/top/bl4ckswat/system-hide-bat" alt="languages">
+<img src="https://img.shields.io/github/languages/top/bl4ckswat/windows-system-hide" alt="languages">
