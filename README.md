@@ -14,6 +14,9 @@ A batch script to hide system files and folders in Windows using the `attrib` co
 
 📌 Ideal for protecting important system files from accidental modifications.
 
-<img src="https://img.shields.io/github/stars/bl4ckswat/windows-system-hide" alt="Repo stars">
+<a href="https://saweria.co/bl4ckswat" target="_blank" title="Support Me">
+    <img src="https://raw.githubusercontent.com/bl4ckswat/bl4ckswat/main/saweria-bl4ckswat.webp" alt="QR Code Saweria" width="200">
+</a>
 
 <img src="https://img.shields.io/github/languages/top/bl4ckswat/windows-system-hide" alt="languages">
+<img src="https://img.shields.io/github/stars/bl4ckswat/windows-system-hide" alt="Repo stars">
